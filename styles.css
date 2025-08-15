@@ -172,9 +172,9 @@ body::before {
     box-shadow: 0 0 20px rgba(255, 0, 255, 0.6);
 }
 
-.instagram .tile-icon {
-    background: linear-gradient(135deg, #e4405f, #833ab4);
-    box-shadow: 0 0 20px rgba(228, 64, 95, 0.6);
+.kerguhl-eats .tile-icon {
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+    box-shadow: 0 0 20px rgba(255, 107, 53, 0.6);
 }
 
 .tiktok .tile-icon {
@@ -372,3 +372,4 @@ body::before {
 .tile:nth-child(7) { animation-delay: 0.7s; }
 .tile:nth-child(8) { animation-delay: 0.8s; }
 .tile:nth-child(9) { animation-delay: 0.9s; }
+
